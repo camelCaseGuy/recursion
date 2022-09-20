@@ -26,3 +26,10 @@ const fibsRec = (num, arr) => {
 }
 
 console.log('fibsRec:', fibsRec(20));
+
+
+const mergeSort = (arr, item) => {
+  arr.forEach(element => {
+    
+  });
+}
